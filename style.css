@@ -1,0 +1,155 @@
+*{
+    font-family: 'Open Sans', serif;
+    box-sizing: border-box;
+    color: #868e96;
+}
+
+#page-top{
+    padding-left: 272px;
+}
+
+.navbar{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 17rem;
+    height: 100vh;
+    background-color:#5356FF    ;
+}
+.image{
+    margin: auto auto 0; 
+}
+
+img{
+    border: 0.5rem solid #7ebdff;
+    border-radius: 500px;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 500px;
+}
+
+.nav{
+    margin-top: 2px;
+    margin-bottom: auto;
+}
+.info{
+    padding: 9px;
+}
+
+.nav-item{
+    padding: 0.15rem 0.5rem;
+    font-weight: 500;
+}
+.nav-link{
+    color: #ffffff;
+    color: rgba(255, 255, 255, .5);;
+}
+.nav-link:hover{
+    color: #ffffff;
+}
+
+.logo{
+    padding: 10px;
+    font-size: 50px;
+    color: #343a40;
+
+}
+.logo:hover{
+    color: #007bff;
+}
+.icons{
+    padding-right: 5px;
+    font-size: 25px;
+    color: #343a40 ;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+}
+
+.link{
+    
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.resume-section{
+    min-height: 100vh;
+    border-bottom: 1px solid #dee2e6;
+}
+.gpa{
+    color: #343a40;
+    font-weight: 1.50rem;
+}
+
+h1{
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 650;
+    font-size: 6rem;
+    line-height: 5.5rem;
+    color: #343a40;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.30rem;
+
+}
+.info{
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 500;
+    font-size: 1.35rem;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 700;
+    font-size: 3.35rem;
+    text-transform: uppercase;
+    color: #343a40;
+}
+
+h3{
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 700;
+    font-size: 1.75rem;
+    text-transform: uppercase;
+    color: #343a40;
+}
+
+p{
+    text-align: left;
+    max-width: 910px;
+}
+.resume-content{
+    margin-right: 53px;
+}
+.resume-date{
+    text-align: right;
+    min-width: 18rem
+}
+
+.subheading{
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 500;
+    font-size: 1.45rem;
+    text-transform: uppercase;
+    color: #343a40;
+}
+
+li{
+    list-style: none;
+}
+.logo2{
+    color: gold;
+}
+
+.logo3{
+    font-weight: 10rem;
+    color: #343a40;
+}
